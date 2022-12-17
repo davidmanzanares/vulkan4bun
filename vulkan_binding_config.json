@@ -1,0 +1,8 @@
+{
+    "name": "vulkan",
+    "headerFile": "/usr/include/vulkan/vulkan.h",
+    "libraryPath": "/usr/lib/x86_64-linux-gnu/libvulkan.so.1",
+    "filterBy": "vulkan",
+    "preprocessorExtra": "",
+    "macroLookupHeaders": ["/usr/include/vulkan/vulkan_core.h"]
+}
